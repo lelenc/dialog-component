@@ -1,0 +1,2 @@
+import{r as s,h as r,H as o}from"./p-66a8649d.js";import{g as t}from"./p-3184ff59.js";const a=":host{display:flex;flex-wrap:wrap}";const l=class{constructor(r){s(this,r)}render(){return r(o,{class:t(this)},r("slot",null))}};l.style=a;export{l as ion_row};
+//# sourceMappingURL=p-d7bb8544.entry.js.map

@@ -1,0 +1,17 @@
+:host {
+  display: block;
+}
+
+.description-container {
+  background: var(--background-pastell-bg);
+  border: 1px solid var(--brand-main-brand);
+  border-radius: 2px;
+  padding: 0.5625rem;
+  margin-top: 1.25rem;
+}
+
+.fade-in.top {
+  transition: 0.5s all ease-in-out;
+  transform: translate3d(0, -50px, 0);
+  opacity: 0;
+}
