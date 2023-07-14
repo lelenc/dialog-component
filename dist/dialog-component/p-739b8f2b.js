@@ -1,2 +1,0 @@
-const t={"question-yes":"IGEN","question-no":"NEM","result-more":"További információk","validation-message":"Kérjük érvényes értékeket adjon meg!","fatal-error":"A kérdőív futtatás fatális hiba miatt nem folytatható."};export default t;
-//# sourceMappingURL=p-739b8f2b.js.map

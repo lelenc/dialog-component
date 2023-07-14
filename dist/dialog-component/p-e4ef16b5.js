@@ -1,2 +1,0 @@
-const e={"question-yes":"YES","question-no":"NO","result-more":"More information","validation-message":"Please enter valid values!","fatal-error":"The questionnaire cannot be continued due to a fatal error."};export default e;
-//# sourceMappingURL=p-e4ef16b5.js.map

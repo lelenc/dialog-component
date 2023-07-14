@@ -1,5 +1,0 @@
-import{r as i,h as s,i as t,H as e}from"./p-66a8649d.js";
-/*!
- * (C) Ionic http://ionicframework.com - MIT License
- */const n=(i,s,t,e,n)=>{const r=i.closest("ion-nav");if(r){if(s==="forward"){if(t!==undefined){return r.push(t,e,{skipIfBusy:true,animationBuilder:n})}}else if(s==="root"){if(t!==undefined){return r.setRoot(t,e,{skipIfBusy:true,animationBuilder:n})}}else if(s==="back"){return r.pop({skipIfBusy:true,animationBuilder:n})}}return Promise.resolve(false)};const r=class{constructor(s){i(this,s);this.onClick=()=>n(this.el,this.routerDirection,this.component,this.componentProps,this.routerAnimation);this.component=undefined;this.componentProps=undefined;this.routerDirection="forward";this.routerAnimation=undefined}render(){return s(e,{onClick:this.onClick})}get el(){return t(this)}};export{r as ion_nav_link};
-//# sourceMappingURL=p-86865160.entry.js.map
