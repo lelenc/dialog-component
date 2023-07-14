@@ -1,0 +1,2 @@
+import{r as s,h as t,H as o,i}from"./p-66a8649d.js";import{g as e}from"./p-3184ff59.js";const r=":host{display:none}";const n=class{constructor(t){s(this,t);this.inputId=`ion-selopt-${a++}`;this.disabled=false;this.value=undefined}render(){return t(o,{role:"option",id:this.inputId,class:e(this)})}get el(){return i(this)}};let a=0;n.style=r;export{n as ion_select_option};
+//# sourceMappingURL=p-9887fc94.entry.js.map

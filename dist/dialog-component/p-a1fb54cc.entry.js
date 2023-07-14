@@ -1,0 +1,2 @@
+import{r,h as s,H as o}from"./p-66a8649d.js";import{g as i}from"./p-3184ff59.js";const t=":host{--size:48px;--border-radius:0;border-radius:var(--border-radius);display:block;width:var(--size);height:var(--size)}::slotted(ion-img),::slotted(img){border-radius:var(--border-radius);width:100%;height:100%;object-fit:cover;overflow:hidden}";const e=class{constructor(s){r(this,s)}render(){return s(o,{class:i(this)},s("slot",null))}};e.style=t;export{e as ion_thumbnail};
+//# sourceMappingURL=p-a1fb54cc.entry.js.map

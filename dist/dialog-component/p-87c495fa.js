@@ -1,0 +1,2 @@
+const o="Cancel";const e="Confirm";const n={"question-yes":"YES","question-no":"NO","result-more":"More information",cancelText:o,confirmText:e};export default n;export{o as cancelText,e as confirmText};
+//# sourceMappingURL=p-87c495fa.js.map
